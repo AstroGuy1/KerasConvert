@@ -5,3 +5,5 @@ A program to convert Keras to Tensorflow Lite
 1. After downloading, install all packages from reqirements.txt.
 2. Change the path to your Keras file.
 3. Hit start and you are good to go.
+
+# Created by Nishanta Parajuli
