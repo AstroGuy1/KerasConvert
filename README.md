@@ -1,4 +1,4 @@
-# KerastoTensorflowLite
+# KerasConvert
 A program to convert Keras to Tensorflow Lite
 
 # Instructions
